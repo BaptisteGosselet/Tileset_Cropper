@@ -16,11 +16,11 @@ Nous voulons utiliser ces pièces de jeu d'echec dans un programme mais pour cel
 
 Le programme produira un résultat comme-ci : 
 
-![Chess0](Chess_example/Chess0.png)
+![Chess0](https://github.com/BaptisteGosselet/Tileset_Cropper/blob/main/Chess_Example/Chess0.png?raw=true)
 
-![Chess1](Chess_example/Chess1.png)
+![Chess1](https://github.com/BaptisteGosselet/Tileset_Cropper/blob/main/Chess_Example/Chess1.png?raw=true)
 
-![Chess2](Chess_example/Chess2.png)
+![Chess2](https://github.com/BaptisteGosselet/Tileset_Cropper/blob/main/Chess_Example/Chess10.png?raw=true)
 
 # ...
 
