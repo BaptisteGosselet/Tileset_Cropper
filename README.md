@@ -1,6 +1,6 @@
 # Tileset Cropper
 
-* Script crée pour m'aider dans mes futurs projets personnels.*
+Script crée pour m'aider dans mes futurs projets personnels. 
 
 ## Présentation 
 Il s'agit d'un programme Python qui décompose une image de type "feuille de Tileset" contenant différents sprites pour obtenir une image par éléments.
